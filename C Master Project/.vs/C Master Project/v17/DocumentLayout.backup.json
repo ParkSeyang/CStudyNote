@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{741980BC-A274-4C0A-A4AE-38F6CE72F22F}|Ch14 Multidimensional Array \u0026 Pointer Array\\Ch14 Multidimensional Array \u0026 Pointer Array.vcxproj|C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{741980BC-A274-4C0A-A4AE-38F6CE72F22F}|Ch14 Multidimensional Array \u0026 Pointer Array\\Ch14 Multidimensional Array \u0026 Pointer Array.vcxproj|solutionrelative:Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0FDF4E8-AB2C-49D6-A3B3-3D8F6347972B}|Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).vcxproj|C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D0FDF4E8-AB2C-49D6-A3B3-3D8F6347972B}|Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).vcxproj|solutionrelative:Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -45,7 +49,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TestNote.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\C Master Project\\TestNote.c",
               "RelativeDocumentMoniker": "C Master Project\\TestNote.c",
@@ -59,19 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "RelativeDocumentMoniker": "Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "RelativeToolTip": "Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAnwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-18T10:07:31.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Variable scope \u0026 Data sharing (Chapter 13).c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
               "RelativeDocumentMoniker": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
               "RelativeToolTip": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
-              "ViewState": "AgIAAJUCAAAAAAAAAAAUwMICAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMICAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-27T09:59:41.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c",
               "RelativeDocumentMoniker": "Array \u0026 Pointer (Chapter 10)\\Main.c",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Function\\Main.c",
               "RelativeDocumentMoniker": "Function\\Main.c",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Repeat(ForMoon)\\Main.c",
               "RelativeDocumentMoniker": "Repeat(ForMoon)\\Main.c",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Pointer\\Main.c",
               "RelativeDocumentMoniker": "Pointer\\Main.c",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CStudyNote\\C Master Project\\Array\\Main.c",
               "RelativeDocumentMoniker": "Array\\Main.c",
