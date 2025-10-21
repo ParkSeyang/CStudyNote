@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9643B6D-3ECD-4E9B-8BAF-36A6872BEA7C}|Function\\Function.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Function\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9643B6D-3ECD-4E9B-8BAF-36A6872BEA7C}|Function\\Function.vcxproj|solutionrelative:Function\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCF9791-17F7-4831-8C8B-77FAF560B7AB}|Array\\Array.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BCF9791-17F7-4831-8C8B-77FAF560B7AB}|Array\\Array.vcxproj|solutionrelative:Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{741980BC-A274-4C0A-A4AE-38F6CE72F22F}|Ch14 Multidimensional Array \u0026 Pointer Array\\Ch14 Multidimensional Array \u0026 Pointer Array.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{741980BC-A274-4C0A-A4AE-38F6CE72F22F}|Ch14 Multidimensional Array \u0026 Pointer Array\\Ch14 Multidimensional Array \u0026 Pointer Array.vcxproj|solutionrelative:Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B46868F1-7097-4D71-9BB9-12415D7AFA6C}|Array \u0026 Pointer (Chapter 10)\\Array \u0026 Pointer (Chapter 10).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B46868F1-7097-4D71-9BB9-12415D7AFA6C}|Array \u0026 Pointer (Chapter 10)\\Array \u0026 Pointer (Chapter 10).vcxproj|solutionrelative:Array \u0026 Pointer (Chapter 10)\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCF9791-17F7-4831-8C8B-77FAF560B7AB}|Array\\Array.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7BCF9791-17F7-4831-8C8B-77FAF560B7AB}|Array\\Array.vcxproj|solutionrelative:Array\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9643B6D-3ECD-4E9B-8BAF-36A6872BEA7C}|Function\\Function.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Function\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D9643B6D-3ECD-4E9B-8BAF-36A6872BEA7C}|Function\\Function.vcxproj|solutionrelative:Function\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09F3A59-B6BF-4A56-ADB9-27E3F96192ED}|Pointer\\Pointer.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Pointer\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -61,45 +61,16 @@
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
               "RelativeDocumentMoniker": "Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c*",
-              "RelativeToolTip": "Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "RelativeToolTip": "Ch14 Multidimensional Array \u0026 Pointer Array\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-18T10:07:31.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Variable scope \u0026 Data sharing (Chapter 13).c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
-              "RelativeDocumentMoniker": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
-              "RelativeToolTip": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMICAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-27T09:59:41.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c",
-              "RelativeDocumentMoniker": "Array \u0026 Pointer (Chapter 10)\\Main.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c",
-              "RelativeToolTip": "Array \u0026 Pointer (Chapter 10)\\Main.c",
-              "ViewState": "AgIAAGMBAAAAAAAAAAAWwFsBAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-23T12:47:54.834Z"
+              "WhenOpened": "2025-06-18T10:07:31.782Z"
             },
             {
               "$type": "Document",
@@ -115,19 +86,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Variable scope \u0026 Data sharing (Chapter 13).c",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
+              "RelativeDocumentMoniker": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
+              "RelativeToolTip": "Variable scope \u0026 Data sharing (Chapter 13)\\Variable scope \u0026 Data sharing (Chapter 13).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMICAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T09:59:41.911Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c",
+              "RelativeDocumentMoniker": "Array \u0026 Pointer (Chapter 10)\\Main.c",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array \u0026 Pointer (Chapter 10)\\Main.c",
+              "RelativeToolTip": "Array \u0026 Pointer (Chapter 10)\\Main.c",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAWwFsBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-23T12:47:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Function\\Main.c",
               "RelativeDocumentMoniker": "Function\\Main.c",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Function\\Main.c",
               "RelativeToolTip": "Function\\Main.c",
-              "ViewState": "AgIAAG0BAAAAAAAAAAAWwFgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-10T21:42:14.076Z"
+              "WhenOpened": "2025-04-10T21:42:14.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Repeat(ForMoon)\\Main.c",
               "RelativeDocumentMoniker": "Repeat(ForMoon)\\Main.c",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "Repeat(ForMoon)\\Main.c",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-10T21:32:36.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T21:32:36.298Z"
             },
             {
               "$type": "Document",
@@ -152,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array\\Main.c",
               "RelativeDocumentMoniker": "Array\\Main.c",
               "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\\uAC8C\uC784 \uD504\uB85C\uADF8\uB798\uBC0D \uAC1C\uBC1C\uC790 \uC218\uC5C5 \uACFC\uC815\\\uC790\uC2B5 \uB610\uB294 \uBCF5\uC2B5\uC6A9 \uCF54\uB529\uD30C\uC77C\\C\uC5B8\uC5B4\\C-Study-Note\\C Master Project\\Array\\Main.c",
               "RelativeToolTip": "Array\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgDAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsCAAAAAAAAAAAAACICAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-10T21:26:12.188Z"
+              "WhenOpened": "2025-04-10T21:26:12.188Z",
+              "EditorCaption": ""
             }
           ]
         }
