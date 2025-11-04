@@ -1,3 +1,1 @@
-﻿  Main.c
-C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\자습 또는 복습용 코딩파일\C언어\C-Study-Note\C Master Project\Ch14 Multidimensional Array & Pointer Array\Main.c(235,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-  Ch14 Multidimensional Array & Pointer Array.vcxproj -> C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\자습 또는 복습용 코딩파일\C언어\C-Study-Note\C Master Project\x64\Debug\Multidimensional Array & Pointer Array (Chapter 14).exe
+﻿  Ch14 Multidimensional Array & Pointer Array.vcxproj -> C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\자습 또는 복습용 코딩파일\C언어\C-Study-Note\C Master Project\x64\Debug\Multidimensional Array & Pointer Array (Chapter 14).exe

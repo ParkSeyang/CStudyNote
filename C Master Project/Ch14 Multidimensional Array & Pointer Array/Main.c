@@ -223,21 +223,3 @@
 
 
 #pragma endregion
-
-#pragma region MyRegion
-
-int main()
-{
-	int n = 0;
-
-	char star[101] = "*";
-
-	scanf_s("%d", n);
-	for (int i = 1; i < n; i++)
-	{
-		printf("%c", star[i]);
-		printf("\n");
-	}
-}
-
-#pragma endregion
